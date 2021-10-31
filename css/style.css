@@ -197,8 +197,8 @@ a{
     counter-increment: my-counter;
     border: 2px solid #c4c4c4;
     margin-bottom: 12px;
-    width: 450px;
-    padding: 10px 15px 9px 113px;
+    width: 350px;
+    padding: 10px 47px 9px 113px;
     position: relative;
     transition: all .5s;
 }
@@ -217,7 +217,7 @@ a{
 }
 
 .services__item:hover{
-    width: 500px;
+    width: 400px;
     border: 2px solid #5A0D67;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
